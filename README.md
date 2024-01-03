@@ -59,6 +59,9 @@ To use the `internsctl` command, simply type `internsctl` followed by one of the
 
 To view the manual page for the `internsctl` command, type: `man internsctl`.
 
+![Task1 drawio](https://github.com/grv13/Linux-Commands/assets/118931467/6c6b14e3-5130-433e-a74e-ba1035926ddf)
+
+
 ## Screenshots
 ![intersctlCMDop](https://github.com/grv13/Linux-Commands/assets/118931467/cdf1d391-f0c1-464f-8565-ea0fc7d903bd)
 
