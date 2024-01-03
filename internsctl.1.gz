@@ -1,0 +1,21 @@
+.TH INTERNSCTL 1 "01 Jan 2024"
+.SH NAME
+internsctl \- description of the internsctl command
+.SH SYNOPSIS
+.B internsctl
+[\fIoptions\fR] ...
+.SH DESCRIPTION
+This is where you would put the description of your command.
+.SH OPTIONS
+.IP "--help"
+Show the help message.
+.IP "--version"
+Show the version of the command.
+.SH EXAMPLES
+This is where you would put usage examples.
+.SH SEE ALSO
+Any related commands.
+.SH BUGS
+Any known bugs.
+.SH AUTHOR
+Your Name (your.email@example.com)
